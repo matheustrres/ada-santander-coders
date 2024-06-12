@@ -1,4 +1,4 @@
-package dataStructure;
+package main;
 
 import java.util.Queue;
 

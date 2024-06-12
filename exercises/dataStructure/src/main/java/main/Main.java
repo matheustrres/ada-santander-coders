@@ -1,10 +1,5 @@
 package main;
 
-import dataStructure.BracketBalancing;
-import dataStructure.HighestTreeValues;
-import dataStructure.ReverseQueue;
-import dataStructure.Tree;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
